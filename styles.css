@@ -1,0 +1,17 @@
+.sidebar {
+    display: grid;
+    background-color: aquamarine;
+}
+
+ .header
+ {
+    display: grid;
+    grid-template: 50px 50px 50px / 60px;
+    background-color: aqua;
+ }
+
+ .main-content
+ {
+    display: grid;
+    background-color: red;
+ }
